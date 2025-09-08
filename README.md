@@ -1,1 +1,1 @@
-Accelerator-Based Programming - Spring 2025
+# Accelerator-Based Programming - Spring 2025
