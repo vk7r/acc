@@ -1,0 +1,242 @@
+Error in computation, got 0 instead of 526
+STREAM triad of size    10000 : min/avg/max: 1.87356e-07 1.88002e-07 1.92019e-07 seconds or  53374.3 MUPD/s or  640.492 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    11008 : min/avg/max: 1.87307e-07 1.87873e-07 1.88677e-07 seconds or    58770 MUPD/s or  705.239 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    12112 : min/avg/max: 1.87406e-07 1.87906e-07 1.89425e-07 seconds or  64629.8 MUPD/s or  775.558 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    13328 : min/avg/max: 1.87437e-07 1.90043e-07 2.32669e-07 seconds or  71106.5 MUPD/s or  853.279 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    14664 : min/avg/max: 1.87471e-07 1.87859e-07 1.88535e-07 seconds or    78220 MUPD/s or   938.64 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    16136 : min/avg/max: 1.87682e-07 1.88017e-07 1.89296e-07 seconds or  85975.4 MUPD/s or   1031.7 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    17752 : min/avg/max:  1.8759e-07 1.88075e-07  1.8974e-07 seconds or  94632.1 MUPD/s or  1135.59 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    19528 : min/avg/max: 1.87585e-07 1.88149e-07 1.90847e-07 seconds or   104102 MUPD/s or  1249.22 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    21488 : min/avg/max: 1.86894e-07 1.91497e-07 2.57537e-07 seconds or   114974 MUPD/s or  1379.69 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    23640 : min/avg/max:  1.8706e-07 1.87978e-07 1.90306e-07 seconds or   126377 MUPD/s or  1516.52 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    26008 : min/avg/max: 1.87193e-07 1.88212e-07 1.90934e-07 seconds or   138937 MUPD/s or  1667.25 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    28616 : min/avg/max: 1.86693e-07 1.88055e-07  1.9078e-07 seconds or   153278 MUPD/s or  1839.34 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    31480 : min/avg/max: 1.87022e-07 1.88228e-07 1.92126e-07 seconds or   168323 MUPD/s or  2019.87 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    34632 : min/avg/max: 1.87016e-07 1.88155e-07 1.89362e-07 seconds or   185182 MUPD/s or  2222.18 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    38096 : min/avg/max: 1.87125e-07 1.88337e-07 1.92274e-07 seconds or   203585 MUPD/s or  2443.03 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    41912 : min/avg/max: 1.87004e-07 1.88363e-07 1.93895e-07 seconds or   224124 MUPD/s or  2689.49 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    46104 : min/avg/max: 1.87018e-07 1.88475e-07 1.92316e-07 seconds or   246522 MUPD/s or  2958.26 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    50720 : min/avg/max: 1.87252e-07 1.88503e-07 1.91948e-07 seconds or   270865 MUPD/s or  3250.39 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    55800 : min/avg/max: 1.87108e-07 1.88613e-07 1.93163e-07 seconds or   298224 MUPD/s or  3578.69 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    61384 : min/avg/max: 1.87257e-07 1.98666e-07 3.90525e-07 seconds or   327806 MUPD/s or  3933.67 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    67528 : min/avg/max: 1.87207e-07 1.88599e-07 1.91837e-07 seconds or   360712 MUPD/s or  4328.55 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    74288 : min/avg/max:  1.8704e-07 1.88922e-07 1.94247e-07 seconds or   397177 MUPD/s or  4766.12 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    81720 : min/avg/max:   1.872e-07 1.89007e-07 1.95231e-07 seconds or   436540 MUPD/s or  5238.48 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    89896 : min/avg/max: 1.87372e-07   1.892e-07 2.00217e-07 seconds or   479772 MUPD/s or  5757.27 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size    98888 : min/avg/max: 1.87596e-07   1.893e-07 2.01839e-07 seconds or   527132 MUPD/s or  6325.58 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   108784 : min/avg/max: 1.87596e-07 1.89772e-07 1.99912e-07 seconds or   579884 MUPD/s or   6958.6 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   119664 : min/avg/max: 1.87565e-07 1.89606e-07 1.97551e-07 seconds or   637986 MUPD/s or  7655.83 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   131632 : min/avg/max: 1.87819e-07 1.89803e-07 1.98306e-07 seconds or   700843 MUPD/s or  8410.12 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   144800 : min/avg/max: 1.87859e-07  1.9018e-07 1.98733e-07 seconds or   770789 MUPD/s or  9249.47 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   159288 : min/avg/max: 1.87907e-07 1.89983e-07   2.001e-07 seconds or   847694 MUPD/s or  10172.3 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   175224 : min/avg/max: 1.87919e-07  1.9053e-07 2.02181e-07 seconds or   932443 MUPD/s or  11189.3 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   192752 : min/avg/max: 1.87931e-07 1.90363e-07 2.02589e-07 seconds or 1.02566e+06 MUPD/s or  12307.9 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   212032 : min/avg/max: 1.88344e-07 1.90379e-07 2.00367e-07 seconds or 1.12577e+06 MUPD/s or  13509.2 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   233240 : min/avg/max: 1.88402e-07 1.91215e-07  2.0647e-07 seconds or 1.23799e+06 MUPD/s or  14855.9 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   256568 : min/avg/max: 1.88411e-07  1.9175e-07 2.07566e-07 seconds or 1.36174e+06 MUPD/s or  16340.9 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   282232 : min/avg/max: 1.89048e-07 1.91644e-07 2.09531e-07 seconds or 1.49291e+06 MUPD/s or  17914.9 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   310456 : min/avg/max: 1.89106e-07 1.92007e-07 2.11839e-07 seconds or 1.64171e+06 MUPD/s or  19700.5 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   341504 : min/avg/max: 1.88911e-07 1.92673e-07 2.14507e-07 seconds or 1.80775e+06 MUPD/s or    21693 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   375656 : min/avg/max: 1.89789e-07 1.93325e-07 2.16154e-07 seconds or 1.97933e+06 MUPD/s or    23752 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   413224 : min/avg/max: 1.81776e-07 1.85561e-07 2.11008e-07 seconds or 2.27326e+06 MUPD/s or  27279.1 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   454552 : min/avg/max: 1.82037e-07 1.84566e-07 2.08187e-07 seconds or 2.49704e+06 MUPD/s or  29964.4 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   500008 : min/avg/max: 1.82824e-07 1.86853e-07 2.14085e-07 seconds or 2.73491e+06 MUPD/s or    32819 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   550016 : min/avg/max: 1.75116e-07 1.79658e-07 2.11359e-07 seconds or 3.14087e+06 MUPD/s or  37690.4 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   605024 : min/avg/max: 1.75782e-07 1.78752e-07 2.07745e-07 seconds or 3.4419e+06 MUPD/s or  41302.8 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   665528 : min/avg/max:  1.6934e-07 1.74486e-07 2.07367e-07 seconds or 3.93013e+06 MUPD/s or  47161.5 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   732088 : min/avg/max: 1.63699e-07 1.66686e-07 2.01346e-07 seconds or 4.47217e+06 MUPD/s or  53666.1 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   805304 : min/avg/max: 1.63927e-07 1.69774e-07 2.09605e-07 seconds or 4.91256e+06 MUPD/s or  58950.8 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   885840 : min/avg/max: 1.58714e-07 1.61832e-07  2.0067e-07 seconds or 5.58135e+06 MUPD/s or  66976.2 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size   974432 : min/avg/max: 1.53588e-07 1.59337e-07 2.48206e-07 seconds or 6.34444e+06 MUPD/s or  76133.3 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  1071880 : min/avg/max: 1.54548e-07 1.58664e-07 2.10774e-07 seconds or 6.93556e+06 MUPD/s or  83226.8 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  1179072 : min/avg/max: 1.49738e-07 1.57132e-07 2.11143e-07 seconds or 7.87423e+06 MUPD/s or  94490.7 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  1296984 : min/avg/max: 1.45338e-07 1.52914e-07 2.06065e-07 seconds or 8.92394e+06 MUPD/s or   107087 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  1426688 : min/avg/max: 1.46814e-07 1.51054e-07 2.10671e-07 seconds or 9.71764e+06 MUPD/s or   116612 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  1569360 : min/avg/max: 1.47651e-07  1.5315e-07  2.1746e-07 seconds or 1.06289e+07 MUPD/s or   127546 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  1726304 : min/avg/max: 1.49246e-07 1.55461e-07 2.40632e-07 seconds or 1.15669e+07 MUPD/s or   138802 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  1898936 : min/avg/max: 1.49596e-07 1.58012e-07 2.59577e-07 seconds or 1.26937e+07 MUPD/s or   152325 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  2088832 : min/avg/max: 1.51447e-07 1.58659e-07 2.56489e-07 seconds or 1.37925e+07 MUPD/s or   165510 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  2297720 : min/avg/max:  1.5214e-07 1.60478e-07 2.70023e-07 seconds or 1.51027e+07 MUPD/s or   181233 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  2527496 : min/avg/max: 1.54564e-07 1.63944e-07 3.04154e-07 seconds or 1.63524e+07 MUPD/s or   196229 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  2780248 : min/avg/max: 1.55857e-07 2.75503e-07  2.4794e-06 seconds or 1.78384e+07 MUPD/s or   214061 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  3058280 : min/avg/max: 1.58313e-07 1.70192e-07 3.46125e-07 seconds or 1.9318e+07 MUPD/s or   231816 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  3364112 : min/avg/max: 1.61828e-07 1.79076e-07 4.59379e-07 seconds or 2.07882e+07 MUPD/s or   249459 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  3700528 : min/avg/max:  1.6263e-07 1.78594e-07 4.10519e-07 seconds or 2.27543e+07 MUPD/s or   273052 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  4070584 : min/avg/max:   1.655e-07 1.86096e-07 4.99208e-07 seconds or 2.45957e+07 MUPD/s or   295148 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  4477648 : min/avg/max: 1.69955e-07 1.93918e-07 5.92409e-07 seconds or 2.63462e+07 MUPD/s or   316154 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  4925416 : min/avg/max:   1.724e-07 2.02153e-07   6.653e-07 seconds or 2.85697e+07 MUPD/s or   342836 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  5417960 : min/avg/max: 1.76389e-07 2.13086e-07 8.36389e-07 seconds or 3.0716e+07 MUPD/s or   368592 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  5959760 : min/avg/max:     1.8e-07 2.43962e-07 1.34956e-06 seconds or 3.31098e+07 MUPD/s or   397317 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  6555744 : min/avg/max: 1.84533e-07 2.41767e-07  1.2496e-06 seconds or 3.55261e+07 MUPD/s or   426313 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  7211320 : min/avg/max:     1.9e-07 2.58185e-07 1.45777e-06 seconds or 3.79543e+07 MUPD/s or   455452 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  7932456 : min/avg/max: 1.95667e-07 2.84271e-07 1.85433e-06 seconds or 4.05407e+07 MUPD/s or   486488 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  8725704 : min/avg/max: 2.05455e-07 2.99086e-07 1.98291e-06 seconds or 4.24702e+07 MUPD/s or   509643 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size  9598280 : min/avg/max:   2.073e-07 3.49405e-07  2.4463e-06 seconds or 4.63014e+07 MUPD/s or   555617 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 10558112 : min/avg/max: 2.15889e-07 3.42233e-07 2.57956e-06 seconds or 4.89053e+07 MUPD/s or   586864 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 11613928 : min/avg/max:    2.26e-07 3.78238e-07 3.14775e-06 seconds or 5.13891e+07 MUPD/s or   616669 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 12775328 : min/avg/max: 2.39143e-07 3.95693e-07 3.19014e-06 seconds or 5.34213e+07 MUPD/s or   641056 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 14052864 : min/avg/max: 2.39571e-07 4.11093e-07 3.52086e-06 seconds or 5.86583e+07 MUPD/s or   703900 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 15458152 : min/avg/max: 2.54167e-07 4.58658e-07 4.21417e-06 seconds or 6.0819e+07 MUPD/s or   729828 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 17003968 : min/avg/max:   2.788e-07  5.2199e-07  4.9188e-06 seconds or 6.09898e+07 MUPD/s or   731878 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 18704368 : min/avg/max:   2.832e-07  5.2453e-07  4.8904e-06 seconds or 6.60465e+07 MUPD/s or   792558 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 20574808 : min/avg/max:    3.16e-07 6.20012e-07  6.1665e-06 seconds or 6.51102e+07 MUPD/s or   781322 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 22632296 : min/avg/max:   3.155e-07 6.31625e-07 6.36375e-06 seconds or 7.17347e+07 MUPD/s or   860816 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 24895528 : min/avg/max:   3.225e-07 6.30712e-07 6.27025e-06 seconds or 7.71954e+07 MUPD/s or   926345 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 27385088 : min/avg/max: 3.78667e-07   7.597e-07 7.79433e-06 seconds or 7.23198e+07 MUPD/s or   867837 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 30123600 : min/avg/max: 3.75667e-07 7.81467e-07   8.187e-06 seconds or 8.0187e+07 MUPD/s or   962245 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 33135968 : min/avg/max: 3.75333e-07   7.924e-07   8.408e-06 seconds or 8.82841e+07 MUPD/s or 1.05941e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 36449568 : min/avg/max:   4.965e-07 1.09305e-06 1.20155e-05 seconds or 7.3413e+07 MUPD/s or   880956 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 40094528 : min/avg/max:    4.94e-07 1.11612e-06   1.254e-05 seconds or 8.1163e+07 MUPD/s or   973956 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 44103984 : min/avg/max:   5.015e-07  1.1281e-06 1.26865e-05 seconds or 8.79441e+07 MUPD/s or 1.05533e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 48514384 : min/avg/max:   4.975e-07 1.09762e-06 1.21105e-05 seconds or 9.75163e+07 MUPD/s or 1.1702e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 53365824 : min/avg/max:    8.58e-07 2.03365e-06  2.3823e-05 seconds or 6.21979e+07 MUPD/s or   746375 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 58702408 : min/avg/max:    8.66e-07  2.1051e-06  2.4992e-05 seconds or 6.77857e+07 MUPD/s or   813428 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 64572656 : min/avg/max:    8.47e-07 2.80395e-06  3.9231e-05 seconds or 7.62369e+07 MUPD/s or   914843 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 71029928 : min/avg/max:    8.43e-07 1.80424e-05 0.000317872 seconds or 8.42585e+07 MUPD/s or 1.0111e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 78132928 : min/avg/max:    8.44e-07  2.0846e-06  2.4773e-05 seconds or 9.25746e+07 MUPD/s or 1.11089e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 85946224 : min/avg/max:     8.4e-07  2.0264e-06  2.3807e-05 seconds or 1.02317e+08 MUPD/s or 1.2278e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 94540848 : min/avg/max:    8.49e-07  2.0933e-06  2.4981e-05 seconds or 1.11356e+08 MUPD/s or 1.33627e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 103994936 : min/avg/max:    8.45e-07  2.1146e-06  2.5474e-05 seconds or 1.23071e+08 MUPD/s or 1.47685e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 114394432 : min/avg/max:    8.45e-07 3.70475e-06  5.7046e-05 seconds or 1.35378e+08 MUPD/s or 1.62454e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 125833880 : min/avg/max:    8.44e-07 2.18685e-06  2.7123e-05 seconds or 1.49092e+08 MUPD/s or 1.78911e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 138417272 : min/avg/max:    8.47e-07 2.23405e-06  2.7689e-05 seconds or 1.63421e+08 MUPD/s or 1.96105e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 152259000 : min/avg/max:    8.67e-07  2.2818e-06   2.828e-05 seconds or 1.75616e+08 MUPD/s or 2.10739e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 167484904 : min/avg/max:    8.42e-07 2.21705e-06   2.771e-05 seconds or 1.98913e+08 MUPD/s or 2.38696e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 184233400 : min/avg/max:    8.44e-07 2.20135e-06  2.7292e-05 seconds or 2.18286e+08 MUPD/s or 2.61943e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 202656744 : min/avg/max:     8.7e-07  2.3092e-06  2.9114e-05 seconds or 2.32939e+08 MUPD/s or 2.79527e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 222922424 : min/avg/max:    8.34e-07  2.2264e-06  2.7815e-05 seconds or 2.67293e+08 MUPD/s or 3.20752e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 245214672 : min/avg/max:    8.43e-07 2.26435e-06  2.8548e-05 seconds or 2.90883e+08 MUPD/s or 3.4906e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 269736144 : min/avg/max:    8.43e-07  2.2378e-06  2.7957e-05 seconds or 3.19972e+08 MUPD/s or 3.83966e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 296709760 : min/avg/max:     8.5e-07 2.28235e-06  2.8823e-05 seconds or 3.4907e+08 MUPD/s or 4.18884e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 326380744 : min/avg/max:    8.43e-07  2.2287e-06  2.7838e-05 seconds or 3.87166e+08 MUPD/s or 4.64599e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 359018824 : min/avg/max:    8.44e-07 2.23015e-06  2.7865e-05 seconds or 4.25378e+08 MUPD/s or 5.10453e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 394920712 : min/avg/max:    8.49e-07 2.26135e-06  2.8404e-05 seconds or 4.6516e+08 MUPD/s or 5.58192e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 434412784 : min/avg/max:    8.37e-07 1.81255e-06  1.9167e-05 seconds or 5.19012e+08 MUPD/s or 6.22814e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 477854064 : min/avg/max:    8.77e-07 2.05335e-06  2.3887e-05 seconds or 5.44874e+08 MUPD/s or 6.53848e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 525639472 : min/avg/max:    8.57e-07 2.23625e-06  2.8019e-05 seconds or 6.13348e+08 MUPD/s or 7.36018e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 578203424 : min/avg/max:    8.51e-07  2.2522e-06  2.8258e-05 seconds or 6.7944e+08 MUPD/s or 8.15328e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 636023768 : min/avg/max:    8.41e-07 2.22855e-06  2.8049e-05 seconds or 7.56271e+08 MUPD/s or 9.07525e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 699626152 : min/avg/max:    8.45e-07  2.3183e-06  2.9591e-05 seconds or 8.2796e+08 MUPD/s or 9.93552e+06 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 769588768 : min/avg/max:    8.43e-07  1.8893e-06  2.1072e-05 seconds or 9.12917e+08 MUPD/s or 1.0955e+07 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 846547648 : min/avg/max:    8.48e-07   2.505e-06  3.3399e-05 seconds or 9.98287e+08 MUPD/s or 1.19794e+07 GB/s
+Error in computation, got 0 instead of 526
+STREAM triad of size 931202416 : min/avg/max:    8.63e-07  2.2532e-06  2.8246e-05 seconds or 1.07903e+09 MUPD/s or 1.29484e+07 GB/s
